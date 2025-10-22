@@ -1,7 +1,5 @@
-Hi, I am Maria, a future web developer studying Full Stack Development at Business College Helsinki.
+Hi, I am Maria, a full-stack web developer based in Helsinki, Finland. Open for collaboration, projects, and job opportunities! 🖥️💯
 
-This account contains mainly my study materials.
+Feel free to find me in other channels also: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-aluko/)  
 
-If you want to chat about space, weightlifting or true crime documentaries, feel free to contact me.
-
-Feel free to find me in other channels also: 🇪🇪 🇬🇧
+🇪🇪 🇬🇧
